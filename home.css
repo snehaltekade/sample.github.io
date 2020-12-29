@@ -1,0 +1,24 @@
+.container-fluid{
+    background-color: #0371bb;
+    height: 100%;
+}
+.logo-img{
+    width: 50%;
+    height: 50%;
+}
+.welcome-text{
+    font-family: sans-serif
+}
+.logo-border{
+    border-right: 2px solid #a7a7ab;
+    height: 50%;
+}
+.card{
+   width: 80%;
+    padding: 5% 5%;
+}
+@media only screen and (max-width: 1024px) {
+    body {
+        background-color: #0371bb;
+    }
+  }
